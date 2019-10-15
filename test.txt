@@ -1,6 +1,11 @@
 Test -1.
 <<<<<<< HEAD
+<<<<<<< HEAD
 Modifying featureA branch!
 =======
 Modified in master branch
+>>>>>>> master
+=======
+Modified in master branch.
+Added another line from master.
 >>>>>>> master
