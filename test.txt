@@ -1,2 +1,6 @@
 Test -1.
+<<<<<<< HEAD
 Modifying featureA branch!
+=======
+Modified in master branch
+>>>>>>> master
